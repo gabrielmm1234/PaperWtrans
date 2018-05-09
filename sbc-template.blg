@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sbc-template.aux
+The style file: sbc.bst
+Database file #1: sbc-template.bib
+Repeated entry---line 71 of file sbc-template.bib
+ : @article{nayak2013type
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--there's a number but no volume in abramo2000relaccoes
+Warning--empty year in diirrcombate
+Warning--empty journal in diirrcombate
+You've used 9 entries,
+            1935 wiz_defined-function locations,
+            527 strings with 5507 characters,
+and the built_in function-call counts, 3417 in all, are:
+= -- 340
+> -- 133
+< -- 8
++ -- 44
+- -- 42
+* -- 278
+:= -- 603
+add.period$ -- 28
+call.type$ -- 9
+change.case$ -- 63
+chr.to.int$ -- 9
+cite$ -- 12
+duplicate$ -- 133
+empty$ -- 235
+format.name$ -- 57
+if$ -- 666
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 48
+num.names$ -- 29
+pop$ -- 54
+preamble$ -- 1
+purify$ -- 63
+quote$ -- 0
+skip$ -- 104
+stack$ -- 0
+substring$ -- 226
+swap$ -- 18
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 52
+warning$ -- 3
+while$ -- 30
+width$ -- 0
+write$ -- 118
+(There was 1 error message)
