@@ -56,4 +56,11 @@ Van~Erven, G., Silva, W., Carvalho, R., and Holanda, M. (2018).
   {\em Trends and Advances in Information Systems and Technologies}, pages
   1141--1151, Cham. Springer International Publishing.
 
+\bibitem[Van~Erven et~al. 2017]{van2017graph}
+Van~Erven, G.~C., Carvalho, R.~N., de~Holanda, M.~T., and Ralha, C. (2017).
+\newblock Graph database: A case study for detecting fraud in acquisition of
+  brazilian government.
+\newblock In {\em Information Systems and Technologies (CISTI), 2017 12th
+  Iberian Conference on}, pages 1--6. IEEE.
+
 \end{thebibliography}
