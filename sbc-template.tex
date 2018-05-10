@@ -180,9 +180,18 @@ MATCH
   {class:Parlamentar, as:p} -RealizaTransacao-> 
   	{class:Transacao, as:t} 
     	-FornecidaPor-> {class:EmpresaFornecedora, as:e},
-  {as:p} -SocioDe-> {as:e}
+  {as:p} -Socio_De-> {as:e}
 RETURN $elements
 \end{lstlisting}
+
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=.85\textwidth]{socios.png}
+\caption{Padrão de uma transação fraudulenta com dados fictícios}
+\label{fig:socios}
+\end{figure}
+
+Como mostra a figura \ref{fig:socios}, a consulta consegue localizar um padrão de transações efetuadas entre um deputado e uma empresa, na qual o deputado faz parte do quadro de sócios. A forma com que o grafo é apresentado visualmente, pode facilitar bastante o entendimento dos relacionamentos, de forma que fica bastante claro que um deputado, representado pelo círculo com o ícone de uma pessoa, é sócio de uma empresa que prestou serviços com o dinheiro da CEAP.  
 
 \section{4 Conclusões e trabalhos futuros} \label{sec:conclusao}
 
