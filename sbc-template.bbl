@@ -8,16 +8,15 @@ Abramo, C.~W. (2000).
 \newblock {\em SPECK, Bruno W. et al. Os custos da corrup{\c{c}}{\~a}o.
   Cadernos Adenauer}, (10):47--62.
 
-\bibitem[Barmpis and Kolovos 2014]{barmpis2014evaluation}
-Barmpis, K. and Kolovos, D.~S. (2014).
-\newblock Evaluation of contemporary graph databases for efficient persistence
-  of large-scale models.
-\newblock {\em Journal of Object Technology}, 13(3):3--1.
-
 \bibitem[Bondy et~al. 1976]{bondy1976graph}
 Bondy, J.~A., Murty, U. S.~R., et~al. (1976).
 \newblock {\em Graph theory with applications}, volume 290.
 \newblock Citeseer.
+
+\bibitem[Chau and Faloutsos 2005]{chau2005fraud}
+Chau, D. and Faloutsos, C. (2005).
+\newblock Fraud detection in electronic auction.
+\newblock In {\em European Web Mining Forum (EWMF 2005)}, page~87.
 
 \bibitem[Diirr and Cappelli ]{diirrcombate}
 Diirr, B. and Cappelli, C.
@@ -37,17 +36,17 @@ Gelbmann, M. (2014).
 \newblock \url{https://db-engines.com/en/blog_post/26}.
 \newblock Acessado em janeiro de 2018.
 
-\bibitem[Labute and Dombroski 2014]{labute2014review}
-Labute, M. and Dombroski, M. (2014).
-\newblock Review of graph databases for big data dynamic entity scoring.
-\newblock Technical report, Lawrence Livermore National Laboratory (LLNL),
-  Livermore, CA.
-
 \bibitem[Nayak et~al. 2013]{nayak2013type}
 Nayak, A., Poriya, A., and Poojary, D. (2013).
 \newblock Type of nosql databases and its comparison with relational databases.
 \newblock {\em International Journal of Applied Information Systems},
   5(4):16--19.
+
+\bibitem[Noble and Cook 2003]{noble2003graph}
+Noble, C.~C. and Cook, D.~J. (2003).
+\newblock Graph-based anomaly detection.
+\newblock In {\em Proceedings of the ninth ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 631--636. ACM.
 
 \bibitem[Van~Erven et~al. 2018]{mdgnosql}
 Van~Erven, G., Silva, W., Carvalho, R., and Holanda, M. (2018).
