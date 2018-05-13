@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.26)  13 MAY 2018 19:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.26)  13 MAY 2018 20:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -407,7 +407,7 @@ File: simple_graph.jpg Graphic file (type jpg)
 
 <use simple_graph.jpg>
 Package pdftex.def Info: simple_graph.jpg used on input line 77.
-(pdftex.def)             Requested size: 298.75264pt x 224.06776pt.
+(pdftex.def)             Requested size: 256.07741pt x 192.06044pt.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 78.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
@@ -430,11 +430,6 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 108.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 108.
- [4]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -451,129 +446,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--109
 ositorio-de-dados-eleitorais-1/repositorio-de-
  []
 
-
-Underfull \hbox (badness 1270) in paragraph at lines 111--112
-[]\OT1/ptm/m/n/12 Como foi men-ci-o-nado na Se[][]ao []1[], a ini-ci-a-tiva de 
-dis-po-ni-bi-li-zar da-dos e
- []
-
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 110.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 110.
+[4]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 116.
-<CEAP-v3.png, id=111, 1037.8775pt x 695.59875pt>
+ <CEAP-v3.png, id=110, 1037.8775pt x 695.59875pt>
 File: CEAP-v3.png Graphic file (type png)
  <use CEAP-v3.png>
-Package pdftex.def Info: CEAP-v3.png used on input line 124.
-(pdftex.def)             Requested size: 362.77525pt x 243.13417pt.
+Package pdftex.def Info: CEAP-v3.png used on input line 122.
+(pdftex.def)             Requested size: 337.1623pt x 225.97139pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 130.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 130.
  [5]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
+(babel)             in language  on input line 131.
 
-<etlfluxo.png, id=121, 722.7pt x 542.025pt>
+<etlfluxo.png, id=120, 722.7pt x 542.025pt>
 File: etlfluxo.png Graphic file (type png)
  <use etlfluxo.png>
-Package pdftex.def Info: etlfluxo.png used on input line 141.
+Package pdftex.def Info: etlfluxo.png used on input line 137.
 (pdftex.def)             Requested size: 213.39568pt x 160.04485pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 147.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 147.
- [6 <./CEAP-v3.png>]
+(babel)             in language  on input line 143.
+ [6 <./CEAP-v3.png> <./etlfluxo.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 154.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 157.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 157.
- [7 <./etlfluxo.png>]
+(babel)             in language  on input line 148.
+
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 160.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 162.
+nput line 154.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 156.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 162.
-LaTeX Font Info:    Try loading font information for OML+ptm on input line 162.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 156.
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 156.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlptm.fd
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 162.
-
-<orient.png, id=139, 925.4575pt x 499.8675pt>
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 156.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 165.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 165.
+ [7]
+<orient.png, id=146, 925.4575pt x 499.8675pt>
 File: orient.png Graphic file (type png)
  <use orient.png>
-Package pdftex.def Info: orient.png used on input line 174.
+Package pdftex.def Info: orient.png used on input line 168.
 (pdftex.def)             Requested size: 362.77525pt x 195.94672pt.
 
-<padrao.png, id=140, 925.4575pt x 500.87125pt>
+<padrao.png, id=147, 925.4575pt x 500.87125pt>
 File: padrao.png Graphic file (type png)
  <use padrao.png>
-Package pdftex.def Info: padrao.png used on input line 181.
+Package pdftex.def Info: padrao.png used on input line 175.
 (pdftex.def)             Requested size: 362.77525pt x 196.34018pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 187.
+(babel)             in language  on input line 186.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 187.
- [8 <./orient.png>] <socios.png, id=158, 921.4425pt x 382.42876pt>
+(babel)             in language  on input line 186.
+ [8 <./orient.png> <./padrao.png>] <socios.png, id=158, 921.4425pt x 382.42876p
+t>
 File: socios.png Graphic file (type png)
- <use socios.png>
-Package pdftex.def Info: socios.png used on input line 201.
+
+<use socios.png>
+Package pdftex.def Info: socios.png used on input line 195.
 (pdftex.def)             Requested size: 362.77525pt x 150.55876pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 207.
+(babel)             in language  on input line 202.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 207.
- [9 <./padrao.png> <./socios.png>]
+(babel)             in language  on input line 209.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 208.
- (./sbc-template.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 10.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 10.
- [10]
+(babel)             in language  on input line 209.
+ [9 <./socios.png>] (./sbc-template.bbl
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ))
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 213.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 221.
- [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+(babel)             in language  on input line 213.
+ [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
 
 (./sbc-template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
 Package rerunfilecheck Info: File `sbc-template.out' has not changed.
 (rerunfilecheck)             Checksum: E22D83A4FA6AD22BA019999A532FBFF8;801.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  ) 
 Here is how much of TeX's memory you used:
- 8604 strings out of 493029
- 122878 string characters out of 6136234
- 240137 words of memory out of 5000000
+ 8603 strings out of 493029
+ 122871 string characters out of 6136234
+ 244306 words of memory out of 5000000
  11967 multiletter control sequences out of 15000+600000
  25281 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,10n,42p,1149b,1526s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,10n,42p,1158b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
@@ -584,10 +572,10 @@ vb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on sbc-template.pdf (11 pages, 618959 bytes).
+Output written on sbc-template.pdf (10 pages, 616679 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 201 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 227 PDF objects out of 1000 (max. 8388607)
+ 196 compressed objects within 2 object streams
+ 57 named destinations out of 1000 (max. 500000)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
