@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.26)  13 MAY 2018 19:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.26)  13 MAY 2018 19:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -430,6 +430,11 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 108.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 108.
+ [4]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -446,11 +451,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--109
 ositorio-de-dados-eleitorais-1/repositorio-de-
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 110.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 110.
-[4]
+
 Underfull \hbox (badness 1270) in paragraph at lines 111--112
 []\OT1/ptm/m/n/12 Como foi men-ci-o-nado na Se[][]ao []1[], a ini-ci-a-tiva de 
 dis-po-ni-bi-li-zar da-dos e
@@ -477,16 +478,16 @@ File: etlfluxo.png Graphic file (type png)
 Package pdftex.def Info: etlfluxo.png used on input line 141.
 (pdftex.def)             Requested size: 213.39568pt x 160.04485pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 149.
+(babel)             in language  on input line 147.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 149.
+(babel)             in language  on input line 147.
  [6 <./CEAP-v3.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 154.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 159.
+(babel)             in language  on input line 157.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 159.
+(babel)             in language  on input line 157.
  [7 <./etlfluxo.png>]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -522,9 +523,9 @@ File: padrao.png Graphic file (type png)
 Package pdftex.def Info: padrao.png used on input line 181.
 (pdftex.def)             Requested size: 362.77525pt x 196.34018pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 190.
+(babel)             in language  on input line 187.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 190.
+(babel)             in language  on input line 187.
  [8 <./orient.png>] <socios.png, id=158, 921.4425pt x 382.42876pt>
 File: socios.png Graphic file (type png)
  <use socios.png>
@@ -538,10 +539,12 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 208.
  (./sbc-template.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 10.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 10.
  [10]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 36.
 
@@ -566,7 +569,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
 Here is how much of TeX's memory you used:
  8604 strings out of 493029
  122878 string characters out of 6136234
- 239928 words of memory out of 5000000
+ 240137 words of memory out of 5000000
  11967 multiletter control sequences out of 15000+600000
  25281 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -581,7 +584,7 @@ vb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on sbc-template.pdf (11 pages, 618768 bytes).
+Output written on sbc-template.pdf (11 pages, 618959 bytes).
 PDF statistics:
  234 PDF objects out of 1000 (max. 8388607)
  201 compressed objects within 3 object streams
